@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2RhdGd0a3k0N3YxejNwZ2R5bWJ5b2Z6NnZpMHNrdzFubWhidWZhNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2A75RyXVzzSI2bx4Gj/giphy.gif" width="480"/>
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTZjMDliOTUyOGlpMXgxN2JxYjdtY3hidHM4OTR4NHN0MzlwcTkzMjk5NjMya2ZiZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3V0AOcoiLAFGBtE4/giphy.gif" width="480"/>
 </p>
 
 <h2 align="center"><img src="https://img.shields.io/badge/Welcome-NEON%20FUTURE-00ffd0?style=for-the-badge&logo=github&logoColor=black&labelColor=0d0221&color=ff00cc"></h2>
