@@ -1,3 +1,4 @@
+
 # ☁️ Cloud & SRE Engineer | JS152005
 
 <p align="center">
@@ -26,10 +27,14 @@ focus:
   - Site Reliability Engineering (SRE)
   - DevOps and Automation
   - Cloud Security
+  - Artificial Intelligence and Research
+
 currently:
   - Building full-stack applications
   - Exploring AWS cloud infrastructure
   - Learning deployment and CI/CD practices
+  - Contributing to academic research through peer review
+
 goal: Build secure, scalable, reliable systems
 mindset: Learn -> Build -> Automate -> Monitor -> Improve
 ```
@@ -38,6 +43,7 @@ mindset: Learn -> Build -> Automate -> Monitor -> Improve
 - ⚙️ Building and deploying practical software projects.
 - 🔍 Interested in monitoring, troubleshooting, reliability, and automation.
 - 🔐 Applying cybersecurity and networking fundamentals to cloud systems.
+- 🔬 Engaged in academic peer review and research-related activities.
 - 🚀 Sharing my learning journey through hands-on projects.
 
 ---
@@ -77,20 +83,24 @@ mindset: Learn -> Build -> Automate -> Monitor -> Improve
 ## 🚀 Projects
 
 ### ☁️ Cloud Deployment & Infrastructure
+
 Building and improving full-stack applications while exploring AWS deployment, cloud infrastructure, access management, and reliable operations.
 
 ### 🎓 Synora — Academic Collaboration Platform
+
 A platform designed to help students collaborate, share academic resources, and learn together.
 
 **Tech:** React • Node.js • Express • PostgreSQL • Prisma
 
 ### 🏫 Department Academic Portal
+
 A centralized portal for students, faculty, and administrators, with a focus on maintainable architecture and reliable deployment.
 
 **Tech:** React • TypeScript • PostgreSQL
 
 ### 🎙️ Real-Time AI Voice Platform
-Exploring real-time voice infrastructure, SIP integration, audio transport, and DTMF-based IVR workflows.
+
+Working with real-time voice infrastructure, SIP integration, audio transport, and DTMF-based IVR workflows.
 
 **Focus:** LiveKit • WebRTC • SIP • Networking
 
@@ -104,10 +114,10 @@ Exploring real-time voice infrastructure, SIP integration, audio transport, and 
 
 <p>
   <a href="https://www.credly.com/badges/423e5a9d-ccef-4a57-a9f1-8f7500be054a/public_url">
-    <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified Cloud Practitioner" />
   </a>
   <a href="https://www.credly.com/badges/b8bcaf4d-0137-419d-b982-7562e977043d/public_url">
-    <img src="https://img.shields.io/badge/AWS-AI%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+    <img src="https://img.shields.io/badge/AWS-AI%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS Certified AI Practitioner" />
   </a>
 </p>
 
@@ -115,6 +125,25 @@ Exploring real-time voice infrastructure, SIP integration, audio transport, and 
 - AWS Certified AI Practitioner
 - ISC2 Certified in Cybersecurity (CC)
 - Google Cybersecurity Professional Certificate
+
+---
+
+## 🔬 Research & Academic Contributions
+
+### 📝 Peer Reviewer — SN Computer Science (Springer Nature)
+
+- Reviewing research manuscripts in computer science and machine learning.
+- Evaluating methodology, technical quality, and clarity.
+
+### 🔍 Peer Reviewer — Asian Journal of Research in Computer Science
+
+- Evaluating research submissions for technical quality, methodology, originality, and clarity.
+
+### 📚 Book Author — In Progress
+
+- Writing a book exploring philosophy, life lessons, and personal growth.
+
+I value research, critical thinking, and continuous learning alongside my practical work in cloud computing, DevOps, and Site Reliability Engineering.
 
 ---
 
@@ -134,18 +163,18 @@ Exploring real-time voice infrastructure, SIP integration, audio transport, and 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://linkedin.com/in/jothiprakash1">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:bsjothiprakash155@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>Building reliable systems, one project at a time. ☁️</b>
+  <b>Building reliable systems, contributing to research, and learning continuously. ☁️🔬</b>
 </p>
 
 <p align="center">
